@@ -1,2 +1,1 @@
-# tindong.com
-tindog starting files
+TinDog Starting Files
